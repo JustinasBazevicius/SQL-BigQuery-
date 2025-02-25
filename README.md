@@ -1,3 +1,4 @@
+# SQL BigQuery 
 In this project, I created queries to solve specific business questions using a database. The focus was on exploring tables, identifying necessary data, and effectively merging it.
 
 ## Tasks Overview:
